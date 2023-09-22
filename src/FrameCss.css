@@ -1,0 +1,58 @@
+
+.container{
+    color: aliceblue;
+    width: 100%;
+    height: auto;
+    
+}
+ 
+.title{ padding-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'sans-serif';
+    color:  transparent;
+    font-weight: 1000;
+    background-image: url(https://media.istockphoto.com/id/1248542684/vector/abstract-blurred-colorful-background.jpg?s=612x612&w=0&k=20&c=6aJX8oyUBsSBZFQUCJDP7KZ1y4vrf-wEH_SJsuq7B5I=);
+    background-clip: text;
+    padding-bottom: 1em;
+}
+
+.ff{color: aliceblue;}
+
+.body{
+    height: auto; 
+}
+
+input{
+    width: 20em;
+    
+    font-size: 2em;
+}
+ button{
+    margin-left: 20px;
+    font-size: xx-large;
+ }
+ .division{
+    margin: 2em;
+    align-items: center;
+ }
+ .input-division{
+    width: 15em;
+    font-size: 2em;
+ }
+ .check{
+    
+    background-color: #68ed6a;
+    transition: background-color 0.5s ease;
+ }
+ .check:hover{
+    background-color: #e58123;
+    
+ }
+ .delete{
+    background: #ec5454;
+    transition: background-color 0.3s ease;
+ }
+.delete:hover{
+    background-color: #e58123;
+}
